@@ -1,0 +1,1 @@
+g++ InvestmentInstrument.cpp main.cpp 
